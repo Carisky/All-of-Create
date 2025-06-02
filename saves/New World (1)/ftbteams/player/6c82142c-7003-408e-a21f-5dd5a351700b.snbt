@@ -1,0 +1,17 @@
+{
+	id: "6c82142c-7003-408e-a21f-5dd5a351700b"
+	type: "player"
+	player_name: "Yolka_today"
+	ranks: {
+		6c82142c-7003-408e-a21f-5dd5a351700b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Yolka_today"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

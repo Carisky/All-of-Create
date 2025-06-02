@@ -1,0 +1,19 @@
+
+[server]
+
+	[server.telemetry]
+		#We use telemetry data to provide a better gameplay experience.
+		#The following data will be collected during your play session:
+		#    - Gaia III completion rate
+		#    - etc...
+		#
+		#Find more on: https://github.com/Lounode/Extrabotany
+		#If you prefer not to participate, set the option below to false.
+		enableTelemetry = true
+		#The UUID of the telemetry data
+		telemetryUUID = "f7fc5309-1179-4ac6-a2a0-621d7e27b37c"
+
+	[server.gaia]
+		#Set true to disable Gaia's disarm
+		disableGaiaDisarm = false
+

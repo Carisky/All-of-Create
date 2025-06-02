@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:cave:C:11975:-49:1202:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:wizard tower:W:12251:154:1466:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:spawn:S:12132:64:1450:6:false:0:gui.xaero_default:false:0:0:false

@@ -1,0 +1,17 @@
+{
+	id: "195044eb-30a9-31ae-aed9-0e81cccc83ee"
+	type: "player"
+	player_name: "Ender3115"
+	ranks: {
+		195044eb-30a9-31ae-aed9-0e81cccc83ee: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ender3115"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

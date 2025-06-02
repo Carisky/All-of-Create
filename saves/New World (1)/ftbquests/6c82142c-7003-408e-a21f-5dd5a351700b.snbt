@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6c82142c7003408ea21f5dd5a351700b"
+	name: "Yolka_today#6c82142c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
