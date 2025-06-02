@@ -1,0 +1,41 @@
+# 1. Сохранения мира (содержит огромный объём блоков и привязок)
+world/
+world_nether/
+world_the_end/
+
+# 2. Логи и отчёты об ошибках
+logs/
+crash-reports/
+*.log
+
+# 3. Временные файлы и блокировки
+*.tmp
+*.lock
+*.lck
+*.log.*
+
+# 4. Кэш и временные папки Forge/Quilt
+cache/
+*.cache/
+minecraft-config-cache/
+
+# 5. Бэкапы (если автоматические системы создают резервные копии)
+backups/
+*.bak
+*.backup
+
+# 6. Работающие PID/сессии
+*.pid
+*.session
+
+# 7. Системные файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 8. IDE и окружение (если вы по ошибке добавили настройки IDE)
+.idea/
+*.iml
+.vscode/
+
+# 9. .curseclient данные Клиента Curse Forge
