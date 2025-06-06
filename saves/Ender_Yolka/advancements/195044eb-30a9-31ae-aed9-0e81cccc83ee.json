@@ -263,6 +263,9 @@
       "environmental:environmental:blossom_woods": "2025-05-31 19:17:02 +0200",
       "minecraft:river": "2025-05-31 22:05:25 +0200",
       "minecraft:dripstone_caves": "2025-05-31 22:35:37 +0200",
+      "minecraft:jungle": "2025-06-02 23:50:00 +0200",
+      "minecraft:ocean": "2025-06-04 22:22:33 +0200",
+      "minecraft:deep_dark": "2025-06-02 23:55:15 +0200",
       "minecraft:plains": "2025-05-31 22:06:11 +0200"
     },
     "done": false
@@ -353,9 +356,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:crag_gardens": "2025-06-02 23:22:26 +0200",
       "biomeswevegone:temperate_grove": "2025-05-31 19:23:12 +0200",
       "biomeswevegone:forgotten_forest": "2025-05-31 22:09:04 +0200",
       "biomeswevegone:rose_fields": "2025-05-31 22:11:34 +0200",
+      "biomeswevegone:ebony_woods": "2025-06-02 22:36:35 +0200",
       "biomeswevegone:allium_shrubland": "2025-05-31 19:23:06 +0200"
     },
     "done": false
@@ -444,8 +449,11 @@
       "minecraft:hoglin": "2025-05-31 23:01:05 +0200",
       "minecraft:piglin_brute": "2025-05-31 22:58:56 +0200",
       "minecraft:spider": "2025-05-31 22:35:52 +0200",
+      "minecraft:creeper": "2025-06-04 21:02:10 +0200",
+      "caverns_and_chasms:peeper": "2025-06-02 23:56:03 +0200",
       "quark:wraith": "2025-05-31 23:24:30 +0200",
       "minecraft:piglin": "2025-05-31 22:58:45 +0200",
+      "minecraft:enderman": "2025-06-04 22:17:02 +0200",
       "minecraft:zombie": "2025-05-31 19:49:02 +0200",
       "quark:foxhound": "2025-05-31 23:18:45 +0200",
       "minecraft:zombie_villager": "2025-05-31 22:07:21 +0200"
@@ -583,6 +591,174 @@
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-06-01 00:06:37 +0200"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-06-02 21:43:59 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-06-02 22:01:53 +0200"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-06-02 22:11:29 +0200"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-06-02 22:21:13 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-06-02 22:22:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-02 22:30:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-06-02 22:30:24 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-02 23:44:02 +0200"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-06-02 23:50:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-02 23:55:00 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-04 18:46:23 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-06-04 18:49:29 +0200"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-06-04 19:48:40 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-06-04 19:49:26 +0200"
+    },
+    "done": false
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-06-04 22:59:25 +0200"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-06-04 21:58:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-04 20:07:42 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-04 22:51:49 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-06-04 22:59:25 +0200"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-04 22:15:49 +0200"
+    },
+    "done": false
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-06-04 22:32:25 +0200"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-06-04 22:55:37 +0200"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-06-04 22:55:37 +0200"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-06-04 21:59:32 +0200"
+    },
+    "done": true
+  },
+  "extrabotany:main/root": {
+    "criteria": {
+      "use_lexicon": "2025-06-04 20:16:08 +0200"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-06-04 23:02:46 +0200"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-06-04 20:16:08 +0200"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-06-04 20:16:57 +0200"
     },
     "done": true
   },
