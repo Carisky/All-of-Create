@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:ендер крепость:Е:-1353:-23:-1200:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:portal:P:24:77:-256:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:home:H:42:87:-119:1:false:0:gui.xaero_default:false:0:0:false

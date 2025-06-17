@@ -1,5 +1,53 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
-  "bookData": {}
+  "clickedVisualize": true,
+  "bookData": {
+    "betterend:guidebook": {
+      "viewedEntries": [
+        "betterend:rituals/infusion_ritual",
+        "betterend:rituals/eternal_ritual"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "extrabotany:exguide": {
+      "viewedEntries": [
+        "extrabotany:test_entry",
+        "extrabotany:excalibur"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:extrabotanies/hammers",
+        "botania:extrabotanies/glided_potato",
+        "botania:mana/sparks",
+        "botania:mana/lens",
+        "botania:mana/distributor",
+        "botania:generating_flowers/gourmaryllis",
+        "botania:generating_flowers/endoflame",
+        "botania:generating_flowers/thermalily",
+        "botania:extrabotanies/orichalcos",
+        "botania:alfhomancy/intro",
+        "botania:generating_flowers/munchdew",
+        "botania:generating_flowers/arcanerose",
+        "botania:baubles/speed_up_belt",
+        "botania:generating_flowers/spectrolus",
+        "botania:generating_flowers/dandelifeon",
+        "botania:generating_flowers/rafflowsia",
+        "botania:mana/elven_lenses",
+        "botania:alfhomancy/gaia_ritual",
+        "botania:tools/terra_pick",
+        "botania:baubles/judgement_cloaks",
+        "botania:baubles/diva_charm",
+        "botania:tools/rainbow_rod",
+        "botania:ender/corporea",
+        "botania:mana/spark_upgrades",
+        "botania:alfhomancy/gaia_ritual_hardmode"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
